@@ -13,5 +13,4 @@
 - Transmitted \(10^7\) bits using **QPSK modulation** over AWGN channel
 - Implemented **OFDM modulation/demodulation** including FFT/IFFT and cyclic prefix
 - Evaluated system performance via BER analysis
-
-![OFDM QPSK Constellation](OFDM.png.png)
+![OFDM Block Diagram](OFDM.png)
